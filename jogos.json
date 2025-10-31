@@ -1,0 +1,42 @@
+{
+  "Brasileirão Série B": [
+    {
+      "data": "2025-10-31",
+      "hora": "18:00",
+      "time_casa": "Ceará",
+      "time_fora": "Santos"
+    },
+    {
+      "data": "2025-10-31",
+      "hora": "19:49",
+      "time_casa": "Ituano",
+      "time_fora": "Sport Recife"
+    },
+    {
+      "data": "2025-11-01",
+      "hora": "17:00",
+      "time_casa": "Mirassol",
+      "time_fora": "Chapecoense"
+    },
+    {
+      "data": "2025-11-01",
+      "hora": "17:00",
+      "time_casa": "São Paulo",
+      "time_fora": "Santos"
+    },
+    {
+      "data": "2025-10-31",
+      "hora": "17:00",
+      "time_casa": "Palmeiras",
+      "time_fora": "Flamego"
+    }
+  ],
+  "Premier League": [
+    {
+      "data": "2025-10-31",
+      "hora": "16:45",
+      "time_casa": "Chelsea",
+      "time_fora": "Liverpool"
+    }
+  ]
+}
