@@ -1,4 +1,31 @@
 {
+  "Brasileirão Série A": [
+    {
+      "data": "2025-10-31",
+      "hora": "18:00",
+      "time_casa": "Palmeiras",
+      "time_fora": "Flamengo"
+    },
+    {
+      "data": "2025-10-31",
+      "hora": "20:00",
+      "time_casa": "Corinthians",
+      "time_fora": "São Paulo"
+    },
+    {
+      "data": "2025-11-01",
+      "hora": "17:00",
+      "time_casa": "Grêmio",
+      "time_fora": "Internacional"
+    },
+    {
+      "data": "2025-11-01",
+      "hora": "19:00",
+      "time_casa": "Athletico-PR",
+      "time_fora": "Cruzeiro"
+    }
+  ],
+
   "Brasileirão Série B": [
     {
       "data": "2025-10-31",
@@ -8,7 +35,7 @@
     },
     {
       "data": "2025-10-31",
-      "hora": "19:49",
+      "hora": "19:45",
       "time_casa": "Ituano",
       "time_fora": "Sport Recife"
     },
@@ -20,17 +47,12 @@
     },
     {
       "data": "2025-11-01",
-      "hora": "17:00",
-      "time_casa": "São Paulo",
-      "time_fora": "Santos"
-    },
-    {
-      "data": "2025-10-31",
-      "hora": "17:00",
-      "time_casa": "Palmeiras",
-      "time_fora": "Flamego"
+      "hora": "19:00",
+      "time_casa": "Goiás",
+      "time_fora": "Vila Nova"
     }
   ],
+
   "Premier League": [
     {
       "data": "2025-10-31",
@@ -39,10 +61,121 @@
       "time_fora": "Liverpool"
     },
     {
-      "data": "2025-11-1",
-      "hora": "16:45",
-      "time_casa": "Testedsdsd",
-      "time_fora": "Teste298989"
+      "data": "2025-11-01",
+      "hora": "14:30",
+      "time_casa": "Manchester United",
+      "time_fora": "Arsenal"
+    },
+    {
+      "data": "2025-11-01",
+      "hora": "17:00",
+      "time_casa": "Manchester City",
+      "time_fora": "Newcastle United"
+    }
+  ],
+
+  "La Liga": [
+    {
+      "data": "2025-10-31",
+      "hora": "17:30",
+      "time_casa": "Barcelona",
+      "time_fora": "Valencia"
+    },
+    {
+      "data": "2025-11-01",
+      "hora": "16:00",
+      "time_casa": "Real Madrid",
+      "time_fora": "Sevilla"
+    },
+    {
+      "data": "2025-11-01",
+      "hora": "18:30",
+      "time_casa": "Atlético de Madrid",
+      "time_fora": "Real Betis"
+    }
+  ],
+
+  "Champions League": [
+    {
+      "data": "2025-11-04",
+      "hora": "16:00",
+      "time_casa": "Bayern de Munique",
+      "time_fora": "Manchester City"
+    },
+    {
+      "data": "2025-11-04",
+      "hora": "16:00",
+      "time_casa": "Paris Saint-Germain",
+      "time_fora": "Real Madrid"
+    },
+    {
+      "data": "2025-11-05",
+      "hora": "16:00",
+      "time_casa": "Arsenal",
+      "time_fora": "Inter de Milão"
+    }
+  ],
+
+  "Serie A (Itália)": [
+    {
+      "data": "2025-11-02",
+      "hora": "15:45",
+      "time_casa": "Juventus",
+      "time_fora": "Milan"
+    },
+    {
+      "data": "2025-11-02",
+      "hora": "13:30",
+      "time_casa": "Inter de Milão",
+      "time_fora": "Napoli"
+    },
+    {
+      "data": "2025-11-03",
+      "hora": "15:00",
+      "time_casa": "Roma",
+      "time_fora": "Lazio"
+    }
+  ],
+
+  "Bundesliga": [
+    {
+      "data": "2025-10-31",
+      "hora": "15:30",
+      "time_casa": "Borussia Dortmund",
+      "time_fora": "RB Leipzig"
+    },
+    {
+      "data": "2025-11-01",
+      "hora": "13:30",
+      "time_casa": "Bayern de Munique",
+      "time_fora": "Bayer Leverkusen"
+    },
+    {
+      "data": "2025-11-01",
+      "hora": "16:00",
+      "time_casa": "Union Berlin",
+      "time_fora": "Wolfsburg"
+    }
+  ],
+
+  "Ligue 1": [
+    {
+      "data": "2025-10-31",
+      "hora": "17:00",
+      "time_casa": "Paris Saint-Germain",
+      "time_fora": "Monaco"
+    },
+    {
+      "data": "2025-11-01",
+      "hora": "15:00",
+      "time_casa": "Marseille",
+      "time_fora": "Lyon"
+    },
+    {
+      "data": "2025-11-01",
+      "hora": "17:00",
+      "time_casa": "Nice",
+      "time_fora": "Lille"
     }
   ]
 }
